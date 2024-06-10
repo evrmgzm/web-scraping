@@ -1,0 +1,14 @@
+#petlebi_scrapy.py is in ./petlebi/spiders
+
+--------------Library------------------
+#pip install scrapy
+#scrapy crawl petlebi -o petlebi_products.json
+
+
+#scraping takes too long but it works well.
+#output can be seen in the petlebi_products.json file
+
+
+#mysql connection locally installed. So it can be problem for other pc.
+
+
